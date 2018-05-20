@@ -1,4 +1,4 @@
-package BeforeLambdaExpression;
+package BeforeJava8LambdaExpression;
 
 public class BeforeJava8LambdaExpression {
 	
